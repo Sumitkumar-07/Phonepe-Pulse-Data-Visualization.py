@@ -5,8 +5,6 @@
 # Introduction
   PhonePe Pulse Data Visualization and Exploration" is a user-friendly tool built using the Streamlit and Plotly Python libraries. It allows users to interactively explore and visualize data related to PhonePe's services and metrics. Streamlit enables the creation of web-based interfaces for data analysis, while Plotly provides various interactive chart types. This tool is useful for quickly understanding trends and patterns in PhonePe's data, aiding decision-making and analysis.
 
-### Want to see demo video of my project? - [Click here](https://www.linkedin.com/feed/update/urn:li:activity:7044603100271181824/)
-
 
 # Libraries/Modules needed for the project!
 
